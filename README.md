@@ -1,1 +1,1 @@
-<img src="https://github.com/WooseopIM/intro/intro.png">
+<img src="https://github.com/WooseopIM/intro/intro.PNG">
